@@ -130,7 +130,7 @@ This demo shows how raw genotype data can be translated into a structured risk e
 
 ## Important Limitations
 
-- This is a simplified educational model.
+- This is a simplified model.
 - Real clinical PRS requires validated effect sizes from large genome-wide association studies.
 - PRS accuracy varies across ancestry groups.
 - Genetic risk does not equal diagnosis.
