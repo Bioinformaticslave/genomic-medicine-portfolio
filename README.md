@@ -6,7 +6,7 @@ This repository showcases my ability to process genomic data for clinical use - 
 - Annotates variants using NCBI's ClinVar API
 - Identifies pharmacogenomic variants in CYP2D6 and other key genes
 - Generates patient-friendly reports with actionable recommendations
-- Analyse  polygenic risk score for patients
+- Estimate disease risk from multiple genetic variants
 
 ## Why This Matters
 Personalized medicine requires translating raw genetic data into clinical insights. Thess pipelines demonstrate that end-to-end process.
