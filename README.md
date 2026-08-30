@@ -10,7 +10,7 @@ This repository showcases my ability to process genomic data for clinical use - 
 
 ## Why This Matters
 Personalized medicine requires translating raw genetic data into clinical insights. Thess pipelines demonstrate that end-to-end process.
-The pipeline can be combined with pipelines on which focuses on annotated VCF files to predict rarity and structural damage of variants. 
+The pipeline can be combined with pipelines on https://github.com/Bioinformaticslave/SNP-Variant-Annotation-Extraction which focuses on annotated VCF files to predict rarity and structural damage of variants but does not predict clinical significance. 
 
 ## Technologies
 - Python
